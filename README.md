@@ -1,1 +1,0 @@
-# ashwam-backend-assessment
